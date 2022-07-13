@@ -1,0 +1,67 @@
+resultaat file                                                                            
+ 
+naam                  =0000                       
+tune-o-gram_links     =[0;0;0;0;0;0;0]
+tune-o-gram_rechts    =[0;0;0;0;0;0;0]
+tune_o_gram_std_links =[1;1;1;3;2;1;1]                                                          
+tune_o_gram_std_rechts=[1;2;1;1;1;1;1]                                                  
+gain_links            =[0;0;0;0;0;0;0]                  
+gain_rechts           =[0;0;0;0;0;0;0]                 
+Q_links               =[0;0;0;0;0;0;0]
+Q_rechts              =[0;0;0;0;0;0;0]
+playvoorbeeld_overflw =0                                              
+playvoorbeeld_extravol=0                                              
+gain_input_links      =[0;0;0;0;0;0;0]            
+gain_input_rechts     =[0;0;0;0;0;0;0]           
+extra_gain_output_l   =0     
+extra_gain_output_r   =0         
+extra_gain_input_l    =0        
+extra_gain_input_r    =0       
+cross_gain_l          =0      
+cross_gain_r          =0     
+low_shelf_output_l    =on    
+low_shelf_output_r    =on  
+low_shelf_input_l     =off   
+low_shelf_input_r     =off 
+gain_output_links     =[0;0;0;0;0;0;0]
+gain_output_rechts    =[0;0;0;0;0;0;0]
+drempel_HL links      =[0;0;0;0;0;0;0]
+drempel_HL rechts     =[0;0;0;0;0;0;0]
+n_instr_l             =[0;0;0;0;0;0;0]
+n_instr_r             =[0;0;0;0;0;0;0]
+n_muziek_zfilt        =0;                  
+n_muziek_mfilt        =0;
+ind_vol links         =[0;0;0;0;0;0;0]
+ind_vol rechts        =[0;0;0;0;0;0;0]
+a_schaduw links       =[0;0;0;0;0;0;0]
+a_schaduw rechts      =[0;0;0;0;0;0;0]
+a_ondernul links      =[0;0;0;0;0;0;0]
+a_ondernul rechts     =[0;0;0;0;0;0;0]
+gain_db_output_l estim=[0;0;0;0;0;0;0]
+gain_db_output_r estim=[0;0;0;0;0;0;0]
+gain_db_input_l  estim=[0;0;0;0;0;0;0]
+gain_db_input_r  estim=[0;0;0;0;0;0;0]
+Qvec_out_l       estim=[0;0;0;0;0;0;0]
+Qvec_out_r       estim=[0;0;0;0;0;0;0]
+Qvec_in_l        estim=[0;0;0;0;0;0;0]
+Qvec_in_r        estim=[0;0;0;0;0;0;0]
+gain_type             =[0;0]
+shared_gain           =0;
+half_gain_rule_indiv_l=[0.2;0.2;0.2;0.2;0.2;0.2;0.2]
+half_gain_rule_indiv_r=[0.2;0.2;0.2;0.2;0.2;0.2;0.2]
+gain_links final      =[0;0;0;0;0;0;0]                  
+gain_rechts final     =[0;0;0;0;0;0;0] 
+music_spectrum_l in   =[-65;-62;-62;-69;-75;-88] 
+music_spectrum_r in   =[-65;-62;-62;-69;-75;-88] 
+
+
+
+
+
+
+
+
+
+
+
+
